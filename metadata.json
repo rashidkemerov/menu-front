@@ -1,0 +1,5 @@
+{
+  "name": "NeuroMenu Designer",
+  "description": "An interactive tool visualizing the psychological principles of menu engineering. It uses Gemini to generate gourmet dishes and arranges them on an A4 canvas according to eye-tracking patterns (Golden Triangle).",
+  "requestFramePermissions": []
+}
